@@ -1,0 +1,179 @@
+.contents{
+	margin: auto;
+	padding:0em;
+	margin-top:35vh;
+}
+.contents h2{
+	text-align: center;
+	color: white ;
+	width: 100%;
+	margin:auto;
+}
+.contents p{
+	justify-content: space-between; 
+	margin-top:40px;
+	color:white;
+	font-size: 20px;
+	line-height: 1.5;
+}
+.new{
+	justify-content: center;
+}
+.new h1 {
+color:white;
+}
+.contents button{
+	margin-top: 80px;
+	background:#FFC42B;
+	color:white;
+}
+.header{
+	height:100vh;
+	background-image:url("https://tripmydream.cc/travelhub/travel/blocks/12/8905/block_128905.jpg");
+	background-size: cover;
+}
+.navbar{ 
+	padding-top:10px;
+	background-color:none;
+}
+.nav-link , .navbar-brand{ color: #f4f4f4; font-size: 25px;  cursor: pointer;}
+.navbar-toggler{  background:#ff!important;}
+.nav-link:hover{
+	background-color:#FFC42B;
+	border-radius: 20px;
+	color:white;
+
+}
+.grey{
+	background-color: white;
+}
+.container-fluid{
+	padding: 130px 0;
+	height:10px;
+}
+.content2 h3{
+	margin: auto;
+	margin-bottom: 60px;
+	text-align: center;
+	width:30%;
+}
+.card{
+	margin: 0 25px 0 -10px;	
+}
+.content2 .card-title{
+	margin: 20px auto;
+	width:10%;
+}
+.col-lg-4{
+	padding: 0;!important
+}
+.card-footer{
+	border: none;
+	background-color:#449EE0 ; 
+	text-align: center;
+	color:white;
+	width:100%;
+}
+.card-footer:hover{
+	background-color:#6c757d; 
+	text-decoration: none;
+	color: white;
+}
+
+.main3{
+	height:80vh;
+	background-image: url("https://cs3.gtaall.com/screenshots/4dc09/2014-01/original/214757f581b44493bb299d05f853acc19f4d5ddc/148306-gallery11.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.main3 .btn{
+	margin-top: 4vh;
+	padding: 10px 30px;
+	color: white;
+	background-color: #FFC42B;
+	font-size: 20px;
+}
+.main3 .btn:hover{
+	background-color: #6c757d;
+}
+.main3 h3{
+	margin: auto;
+	margin-top:10vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+.content3{
+	margin-top: 4vh;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+.mt-8{
+	margin-top: 5vh;
+	margin-bottom: 10vh
+
+}
+.main3 .card{
+	margin:0 0 30px 0;
+	background-color:#E1E2E3 ;
+}
+
+.main-title{
+	font-size: 50px;
+	color:  #FFC42B;
+}
+.yellow{
+	color:white;
+	background-color:#FFC42B;
+	height:10%;
+}
+.yellow h3{
+	padding: 10px;
+	margin
+@media (max-width: 991.98px){
+	.card{
+		margin: 20px auto;
+		background-color:white;	
+	}
+	.header{
+	height:20vh;
+	}
+	.main3{
+	height:10vh;
+	}
+}
+.content4 .card{
+	border:none;
+	background-color:white;
+}
+.content4 .card-body, .card{
+	padding:0;
+}
+.content4 .btn{
+	width: 80%;
+}
+.city{
+	color:white;
+	height:calc(20vh+60px);
+	background-image:url("https://cs3.gtaall.com/screenshots/4dc09/2014-01/original/214757f581b44493bb299d05f853acc19f4d5ddc/148306-gallery11.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.city .btn{
+	padding: 10px 70px;
+}
+a{
+	color:#000000;
+}
+a:hover{
+	text-decoration: none;
+	color:white;
+}
+.container-fluid 
+{
+height:10%;
+}
+#new{
+height:10px;
+}
